@@ -1,0 +1,46 @@
+.MySkills {
+   text-align: center;
+   font-family: 'Lato', sans-serif; 
+   font-size: 50px;
+   padding-top: 120px; 
+   margin-bottom: 20px;
+}
+
+.kreska
+{
+border: 2px solid  rgb(248, 248, 248);
+margin-bottom: 40px;
+
+}
+ 
+.container
+{
+    text-align: center;
+}
+
+/* .col
+{
+    border: 1px solid red;  
+    padding: 50px;
+} */
+
+.circle-icon
+{
+    background:  rgb(248, 248, 248);
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 180px;
+    vertical-align: middle;
+    color: rgb(227, 143, 66);
+    font-size: 100px;
+
+}
+
+.title
+{
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    padding: 10px;
+}
